@@ -1,0 +1,23 @@
+title{font-size:60px;}
+
+#body {background-color:orange;}
+#links {background-color:green; padding:20px; font-size:30px; text-align:center;}
+
+:link{color:blue;}
+:visited{color:red;}
+
+
+h1 {color:green; font-size:50px; text-align:center;font-family: Arial;background-color:white;}
+		
+h3 {text-align:center;}
+
+p style{font-size: 10px;}
+
+p style{font-size: 20px;}
+
+p style{color:black; font-size: 40px; background-color:yellow;}
+
+
+nav {
+    display: block;
+}
